@@ -11,3 +11,5 @@ de fond.
 Le projet n'est donc pas utilisable en l'état, des modifications suivant le contexte (nom de photo, dossiers, etc...) sont nécessaires.
 
 La présentation finale est également disponible.
+
+Pour indication, ce TIPE a été noté 16.5, mais il faut garder en tête qu'une grande partie de la note est dûe à la manière de présenter.
